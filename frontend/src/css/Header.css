@@ -1,0 +1,11 @@
+#picture{
+	width: 45px;
+	height: 45px;
+	border-radius: 50px;
+	margin-top: -2px;
+	border: 1px solid #ecf0f1;
+}
+#navbar_landing{
+	background-color: #2c3e50 !important;
+	height: 60px;
+}

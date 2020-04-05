@@ -1,0 +1,17 @@
+#conten_form_login{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+#footer_botton{
+	margin-top: 30px !important;
+}
+#submit_login{
+	background-color: #34495e !important;
+	border: 1px solid #34495e;
+	width: 297px;
+}
+#close_login{
+	background-color: #e84118;
+	border: 1px solid #e84118;
+	width: 297px;
+}
